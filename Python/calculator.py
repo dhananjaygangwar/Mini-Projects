@@ -12,6 +12,8 @@ def div():
     result = value1/value2
     print(result)
 
+# taking input 
+
 value1 = input("Enter the value 1: ")
 value1 = int(value1)
 value2 = input("Enter the value 2: ")
